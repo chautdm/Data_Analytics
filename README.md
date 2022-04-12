@@ -1,4 +1,4 @@
-# data_analytics_learning
+# Data Analytics Learning
 <p> Data analytics learning resource frome IBM Data Analyst Professional Certificate.</p>
 <p> Chau Duong Minh Tran. </p>
 <p>University of Tasmania.</p>
